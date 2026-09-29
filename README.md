@@ -23,7 +23,7 @@ why the thing I broke was working in the first place.
 
 <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,js,php" />
 
-</div>l
+</div>
 
 ---
 
