@@ -29,6 +29,9 @@ why the thing I broke was working in the first place.
 
 ## 🛠️ My Stack
 
+I enjoy working with tools that let me build from the logic
+behind an application to the systems that run it
+
 ### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,rust,c,cpp,python,js,go" />
