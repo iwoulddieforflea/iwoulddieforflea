@@ -27,12 +27,17 @@ why the thing I broke was working in the first place.
 
 ---
 
-## 🛠️ What I Do
+### 🛠️ `My Stack`
+Simple banget dan langsung nunjukin identitas.
 
-```text
-Programming      ███████████████░░░
-Systems          ████████████░░░░░
-Algorithms       ███████████░░░░░░
-Linux            ██████████████░░░
-Design           ██████████░░░░░░░
-Overthinking     ██████████████████
+```md
+## 🛠️ My Stack
+
+**Languages**
+Rust · C · C++ · Python · JavaScript 
+
+**Backend**
+APIs · Services · Databases · Networking
+
+**Environment**
+Linux · Git · CLI
