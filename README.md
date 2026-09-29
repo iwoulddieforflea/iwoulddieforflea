@@ -21,7 +21,7 @@ why the thing I broke was working in the first place.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,js" />
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,js, php" />
 
 </div>
 
@@ -29,11 +29,12 @@ why the thing I broke was working in the first place.
 
 ## 🛠️ My Stack
 
-**Languages**
-Rust · C · C++ · Python · JavaScript 
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,rust,c,cpp,python,js,go" />
+</p>
 
-**Backend**
-APIs · Services · Databases · Networking
-
-**Environment**
-Linux · Git · CLI
+### Environment & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,neovim,git,docker" />
+</p>
