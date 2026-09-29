@@ -4,16 +4,19 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm a developer interested in software, systems, and creative technology.
+I'm a backend engineer who likes building things that nobody
+sees but somehow everyone depends on.
 
-I like building things, breaking things, and occasionally figuring out
-why the thing I broke was working in the first place.
+I enjoy backend systems, low-level programming, Linux, and
+figuring out why something works — usually immediately after
+spending several hours figuring out why it doesn't.
 
-- 🧠 Interested in programming & systems
+- ⚙️ Backend & systems enthusiast
 - 🐧 Linux enjoyer
-- 📚 Currently learning more about algorithms and computer science
+- 🧠 Currently learning algorithms & computer science
+- 🔧 I build things, break things, then call it debugging
 
 ---
 
