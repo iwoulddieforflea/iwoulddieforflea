@@ -10,7 +10,7 @@ I'm a backend engineer who likes building things that nobody
 sees but somehow everyone depends on.
 
 I enjoy backend systems, low-level programming, Linux, and
-figuring out why something works — usually immediately after
+figuring out why something works usually immediately after
 spending several hours figuring out why it doesn't.
 
 - ⚙️ Backend & systems enthusiast
@@ -24,7 +24,7 @@ spending several hours figuring out why it doesn't.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,js,php" />
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,js,go,php" />
 
 </div>
 
