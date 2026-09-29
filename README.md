@@ -27,10 +27,6 @@ why the thing I broke was working in the first place.
 
 ---
 
-### 🛠️ `My Stack`
-Simple banget dan langsung nunjukin identitas.
-
-```md
 ## 🛠️ My Stack
 
 **Languages**
