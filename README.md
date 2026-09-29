@@ -21,9 +21,9 @@ why the thing I broke was working in the first place.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,js, php" />
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,js,php" />
 
-</div>
+</div>l
 
 ---
 
