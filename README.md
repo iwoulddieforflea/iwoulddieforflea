@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" width="100%" />
+<img src="./banner.png" width="100%" />
 
 </div>
 
@@ -13,7 +13,6 @@ why the thing I broke was working in the first place.
 
 - 🧠 Interested in programming & systems
 - 🐧 Linux enjoyer
-- 🎨 DKV student
 - 📚 Currently learning more about algorithms and computer science
 
 ---
@@ -22,7 +21,7 @@ why the thing I broke was working in the first place.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,js,go" />
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,js" />
 
 </div>
 
